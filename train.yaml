@@ -1,0 +1,5 @@
+names:
+- person
+nc: 1
+train: /content/drive/MyDrive/Colab Notebooks/yolov8_try/img/train
+val: /content/drive/MyDrive/Colab Notebooks/yolov8_try/img/valid
